@@ -1,0 +1,10 @@
+# Feature Engineering
+
+## New Features
+
++ Price Difference
++ Discount Impact
++ Price per GB
++ Price per MB
++ Brand Popularity
+
